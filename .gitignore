@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# IDE/Editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Otros
+.env
